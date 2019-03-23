@@ -3,6 +3,7 @@ layout: post
 title: Why do we do FOSS?
 categories: Senior_Seminar
 ---
+
 Free and Open Source Software(FOSS) allows a programmer to become much more than just a programmer writing code. It allows them the opportunity to let their code make an impact. They can create solutions to societal problems and create innovative solutions.
 
 Several organizations are using code to make an impact in the society. While the most common way for programmers to contribute is making software that provides functionality, a new trend has been to teach others to code. There are websites like freeCodeCamp which enable individuals to learn to code, but this requires a person to have the fundamental knowledge and equipment.
