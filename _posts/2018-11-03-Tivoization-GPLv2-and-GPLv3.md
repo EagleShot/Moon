@@ -2,6 +2,7 @@
 layout: post
 title: Tivoization:GPLv2 and GPLv3
 tags: ["Senior Seminar","Open Source"]
+excerpt: "How Tivo made the community realize the need for GPLv3"
 comments: true
 ---
 

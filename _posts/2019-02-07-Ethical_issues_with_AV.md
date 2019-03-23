@@ -2,6 +2,7 @@
 layout: post
 title: Ethical Issues with Autonomous Vehicles
 tags: ["Senior Seminar","Ethics","AI"]
+excerpt: "Why Autonomous Vehicles has a much larger ethical problem to solve than technical before they can become mainstream."
 comments: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: Why do we do FOSS?
 tags: ["Senior Seminar","Open Source"]
+excerpt: "My reason of contributing to FOSS and releasing most of my software as free and open source"
 comments: true
 ---
 

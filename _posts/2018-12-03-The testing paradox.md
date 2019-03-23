@@ -2,6 +2,7 @@
 layout: post
 title: The testing paradox
 tags: ["Senior Seminar","Software Engineering"]
+excerpt: "Even though testing of software code is essential, even tested code does not gaurantee that it will always work. So what's the value in testing?"
 comments: true
 ---
 
