@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "First post!"
-date: 2018-09-03
-excerpt: "My first attempt at a blog"
-tags: ["Senior Seminar"]
-comments: true
+title: First post!
+image: /img/hello_world.jpeg
+categories: Senior_Seminar
 ---
 
 This blog has been created to COMP 491 and 492 taught at Dickinson College and will be used to post reflective writing on reading and discussion topics related to free and open source software (FOSS), software engineering and contemporary social and ethical issues in technology.
