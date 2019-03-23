@@ -12,7 +12,7 @@ This blog has been created to COMP 491 and 492 taught at Dickinson College and w
 
 My plans after college are to:
 
--   Join a cancer research label.
--   Be a good cook.
+-   Join a cancer research lab.
+-   Become a good cook.
 -   Travel with my parents.
 -   Spend more time with my twin brother. I miss him a lot.
