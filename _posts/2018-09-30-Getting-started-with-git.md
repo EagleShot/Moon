@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with Git
-feature: assets/img/Octocat.png
+feature: assets/img/post_features/Octocat.png
 tags: ["Senior Seminar","Git","Tutorial"]
 excerpt: "Tips to become a Git Ninja. Things I wish I knew when I started with Git"
 comments: true
