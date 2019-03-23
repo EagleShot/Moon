@@ -1,7 +1,8 @@
 # Site
 title:              Ashir Borah
+job_title:          "Incoming Computational Associate I at the Broad Institute of MIT and Harvard"
 bio:                'Fighting cancer, one byte at a time'
-description:        "Incoming Computational Associate at the Broad Institute of MIT and Harvard. Fighting cancer, one byte at a time."
+description:        "Incoming Computational Associate I at the Broad Institute of MIT and Harvard. Fighting cancer, one byte at a time."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -9,6 +10,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:               https://eagleshot.github.io
+baseurl:            /
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +28,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   ashirborah
+disqus_shortname:   ashirborah-1
 
 # Social
 # if you don't have any of social below, comment the line.
