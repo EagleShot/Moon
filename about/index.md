@@ -10,7 +10,7 @@ comments: false
     <img src="{{ site.url }}/assets/img/logo.jpg" class="img-circle zoombtn">
 </p>
 
-<center>Current mathematics and computer science undergrad @Dickinson College.
+<center>Senior mathematics and computer science undergrad @Dickinson College.
 <br><br>
 Incoming Computational Associate I at The Broad Institute of MIT and Harvard Incoming.</center>
 
