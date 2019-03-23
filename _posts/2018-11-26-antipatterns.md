@@ -2,7 +2,7 @@
 layout: post
 title: Why antipatterns exist?
 tags: ["Senior Seminar","Software Engineering"]
-excerpt: "Great wisdom from expert programmers on which practices will surely lead to trouble."
+excerpt: "Great wisdom from expert programmers on which practices will surely lead to trouble"
 comments: true
 ---
 

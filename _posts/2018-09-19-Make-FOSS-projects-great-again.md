@@ -2,7 +2,7 @@
 layout: post
 title: What should I look for when I explore a FOSS project?
 tags: ["Senior Seminar","Open Source"]
-excerpt: "The signs of a good Free and Open Source (FOSS) project."
+excerpt: "The signs of a good Free and Open Source (FOSS) project"
 comments: true
 ---
 
