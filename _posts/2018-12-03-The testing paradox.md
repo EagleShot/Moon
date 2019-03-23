@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The testing paradox
-categories: Senior_Seminar
+tags: ["Senior Seminar","Software Engineering"]
+comments: true
 ---
 
 If you have ever completed a programming course, you will probably have heard this a thousand times: "Always test your code" or "Code a little, test a little." Code that is not tested cannot be considered complete because its validity has not been checked. So when sufficient tests are written for a piece of code, one might come to believe that the software is correct and free of bugs. This is a fallacy of software development: Testing only shows the presence of defects. It does not prove that it is free of them.

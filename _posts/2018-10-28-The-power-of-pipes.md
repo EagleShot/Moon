@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The power of pipes
-categories: Senior_Seminar
+tags: ["Senior Seminar","Software Engineering"]
+comments: true
 ---
 
 I started using the terminal last year when I had to rename a folder with a large amount of files. That's the first time I used **piping**. As I have started to explore the UNIX terminal, I have come to realize the power of piping and in general the pipe and filter architecture. The idea behind this architecture is to build components (filters) that perform a particular action. These are then connected by pipes to make a sequence which performs the required action.

@@ -2,7 +2,8 @@
 layout: post
 title: Getting started with Git
 image: /img/Octocat.png
-categories: Senior_Seminar
+tags: ["Senior Seminar","Git","Tutorial"]
+comments: true
 ---
 
 Hello again in the journey to becoming FOSS ninjas! Today, I want to write about Git. Specifically, how to get started with Git. This is not another Git tutorial. This is just a collection of my thoughts, things I wish I knew when I began to use git along with things my friends shared they wanted they know which came up during one of our discussions because let's be real, no one likes a Git showoff, but everyone wants to be one.

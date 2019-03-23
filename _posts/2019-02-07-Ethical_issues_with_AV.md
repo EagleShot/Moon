@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ethical Issues with Autonomous Vehicles
-categories: Senior_Seminar
+tags: ["Senior Seminar","Ethics","AI"]
+comments: true
 ---
 
 The autonomous vehicles idea has as many ethical challenges as technical challenges. In these scenarios, even if one assumes as algorithmically perfect car which never misses a squirrel or incorrectly identifies a tree as a person, some situations are impossible to solve. Let’s discuss one of them in particular. In this thought experiment, you and your family are waiting in your autonomous vehicle at a stop sign, and a group of kids is crossing in front of you. Your AV notices a speeding truck which will not stop in time. It calculates that if it blocks the truck, the harm to the kids can be prevented by your car will be destroyed. There are three people in the vehicle but ten kids on the street. What does the car do? Does it get out of the way and save your family or does it protect the kids? I don’t think there is a right answer to this situation. The given condition is an example of a [no-win situation](https://en.wikipedia.org/wiki/No-win_situation)

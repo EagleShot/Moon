@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Why do we do FOSS?
-categories: Senior_Seminar
+tags: ["Senior Seminar","Open Source"]
+comments: true
 ---
 
 Free and Open Source Software(FOSS) allows a programmer to become much more than just a programmer writing code. It allows them the opportunity to let their code make an impact. They can create solutions to societal problems and create innovative solutions.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Why antipatterns exist?
-categories: Senior_Seminar
+tags: ["Senior Seminar","Software Engineering"]
+comments: true
 ---
 
 Design patterns have been established to tackle common recurring problems that are encountered in software engineering. Programmers, engineers, and designers have iterated on these ideas; scrapping the ones that do not work or improving them to prevent common pitfalls to ensure usability, transparency, and modularity.

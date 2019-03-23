@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Test Driven Programming
-categories: Senior_Seminar
+tags: ["Senior Seminar","Software Engineering"]
+comments: true
 ---
 
 Several experienced programmers have emphasized the importance of test driven programming to me. I never understood the imporatnce of this ideaology until the last summer. I believed that code makes something new but tests only validate what has already been written. This was not a exciting especially because I had to work through the input to arrive at the output.
