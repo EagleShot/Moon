@@ -2,7 +2,7 @@
 layout: post
 title: When is open source harmful?
 excerpt: "When can the idea of open source go too far to ever become dangerous?"
-image: /img/bart-simpson-generator.gif
+feature: {{site.url}}/img/bart-simpson-generator.gif
 tags: ["Senior Seminar","Open Source"]
 comments: true
 ---
