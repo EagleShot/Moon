@@ -14,31 +14,12 @@ comments: false
 <br><br>
 Incoming Computational Associate I at The Broad Institute of MIT and Harvard Incoming.</center>
 
-## Features
+## A bit about me
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
-
-## Preview
-
-{% capture images %}
-    <https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png>
-    <https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png>
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-   I am a twin!
+-   I was born in Assam, India
+-   I completed Pre K to Sophomoore year of high school in Assam after which I went to Delhi, India to complete my last two years of high school
+-   I took a gap year after high school and volunteered for a year in Bhumi teaching unprivileged kids math and science
+-   I came to the US to complete my undergrad in Mathematics and Computer Science @Dickinson college
+-   I play the Tabla and the Western flute
+-   I love ceramics. There is a unique joy in seeing an object shape up in a wheel
