@@ -4,6 +4,7 @@ title: "First post!"
 date: 2018-09-03
 excerpt: "My first attempt at a blog"
 tags: ["Senior Seminar"]
+feature: assets/img/hello_world.jpg
 comments: true
 ---
 
