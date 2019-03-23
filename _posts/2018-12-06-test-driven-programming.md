@@ -2,6 +2,7 @@
 layout: post
 title: Test Driven Programming
 tags: ["Senior Seminar","Software Engineering"]
+excerpt: "How I was taught to program and I am glad that my professor hammered this into my head. It is surely a pain but always worth it."
 comments: true
 ---
 

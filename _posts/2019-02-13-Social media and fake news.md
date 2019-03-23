@@ -2,6 +2,7 @@
 layout: post
 title: Social Media and Fake news
 tags: ["Senior Seminar","AI"]
+excerpt: "The impact of fake news in social media and it's impact on the World."
 comments: true
 ---
 

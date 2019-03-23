@@ -2,6 +2,7 @@
 layout: post
 title: Can there be another Red Hat?
 tags: ["Senior Seminar","Open Source"]
+excerpt: "My thoughts on what made RedHat unique and if there can be another RedHat like company"
 comments: true
 ---
 
@@ -11,4 +12,4 @@ Red Hat distinguishes its business through their subscription model. They provid
 
 The question that many people ask is: Can there be another Red Hat? There are several arguments on both sides. People who do not think there can be another Red Hat argue that Red Hat already fulfills all the needs of the server Linux market. Let us look at the question in a broader sense. Canonical has provided similar services to consumers on the desktop/laptop market. There provide LTS and packaged distributions that are extremely easy to install. Major companies are providing corporate clients with support on their open source products(Custom Androids/TensorFlow APIs).
 
-tT will definitely be harder to start a new company that could reach Red Hat's popularity but given the boom in new areas of tech and the niche markets that are growing up, this seems like a viable strategy to me and something that could be profitable if done correctly.
+It will definitely be harder to start a new company that could reach Red Hat's popularity but given the boom in new areas of tech and the niche markets that are growing up, this seems like a viable strategy to me and something that could be profitable if done correctly.

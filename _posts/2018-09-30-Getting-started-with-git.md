@@ -3,6 +3,7 @@ layout: post
 title: Getting started with Git
 image: /img/Octocat.png
 tags: ["Senior Seminar","Git","Tutorial"]
+excerpt: "Tips to become a Git Ninja. Things I wish I knew when I started with Git."
 comments: true
 ---
 
