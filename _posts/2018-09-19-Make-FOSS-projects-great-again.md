@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What should I look for when I explore a FOSS project?
-categories: Senior_Seminar
+tags: ["Senior Seminar","Open Source"]
+comments: true
 ---
 
 My friends and I were searching for FOSS projects to contribute to. During our search, one of my friends said "Tell me a _good_  project to start with". It is then that we started to wonder what makes a FOSS project good. During our search, we came up with that makes a FOSS project for us. I wanted to share to anyone else who is trying to define the same questions.

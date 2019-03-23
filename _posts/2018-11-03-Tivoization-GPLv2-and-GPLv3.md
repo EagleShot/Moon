@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tivoization:GPLv2 and GPLv3
-categories: Senior_Seminar
+tags: ["Senior Seminar","Open Source"]
+comments: true
 ---
 
 The GNU General Public License (or GPL) is one of the most common licenses in FOSS projects. It has been crucial in establishing the FOSS ecosystem and keeping projects FOSS with its strict copyleft language (a codebase that uses GPL code has to be GPL). It requires the code base to be open source and grants others the right to redistribute and modify the software.

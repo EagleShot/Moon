@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Social Media and Fake news
-categories: Senior_Seminar
+tags: ["Senior Seminar","AI"]
+comments: true
 ---
 
 Fake news has become rampant lately and has had a significant impact especially during the 2016 US election ([Science](http://science.sciencemag.org/content/363/6425/374)).
