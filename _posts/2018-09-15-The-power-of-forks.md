@@ -3,7 +3,7 @@ layout: post
 title: The power of forks
 image: /img/forking.gif
 tags: ["Senior Seminar","Git","Tutorial"]
-excerpt: "How fork powers Git and frees code from autocratic moderators."
+excerpt: "How fork powers Git and frees code from autocratic moderators"
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: The power of pipes
 tags: ["Senior Seminar","Software Engineering"]
-excerpt: "How pipes make the Terminal OP."
+excerpt: "How pipes make the Terminal OP"
 comments: true
 ---
 
