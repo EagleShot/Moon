@@ -3,6 +3,7 @@ layout: post
 title: Can there be another Red Hat?
 categories: Senior_Seminar
 ---
+
 Red Hat has a very innovative open source system. The company produces three different operating systems which target different audiences. Their consumer version is Fedora. This is a very popular flavor of Linux for people who want an alternative to Ubuntu or Debian. The community contributes to Fedora. When a feature or request in Fedora becomes popular and survives the test of time, it is ported to RedHat Linux which is a server Linux. The unique feature of the company is that it then releases the code base and all the features of RedHat Linux as CentOS. Thus the community is benefiting from their contribution to the project.
 
 Red Hat distinguishes its business through their subscription model. They provide support for the OS, provide packaged stable versions of OS and long-term updates. They also freeze the code base to provide standard OS versions. Thus the company successfully created a business based on open source.

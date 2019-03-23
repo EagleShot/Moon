@@ -3,6 +3,7 @@ layout: post
 title: The power of pipes
 categories: Senior_Seminar
 ---
+
 I started using the terminal last year when I had to rename a folder with a large amount of files. That's the first time I used **piping**. As I have started to explore the UNIX terminal, I have come to realize the power of piping and in general the pipe and filter architecture. The idea behind this architecture is to build components (filters) that perform a particular action. These are then connected by pipes to make a sequence which performs the required action.
 
 This can be compared to a LEGO set. Given a few pieces, a variety of shapes can be made. Piping provides a lot of functionality in a similar fashion. The same components connected differently can perform very different functions. Each filter acts independently of each other and thus techniques like multithreading or distributed computing can be used depending on how the pipes are connected. Filters can themselves contain pipes and filters.

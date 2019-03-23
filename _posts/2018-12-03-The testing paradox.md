@@ -3,6 +3,7 @@ layout: post
 title: The testing paradox
 categories: Senior_Seminar
 ---
+
 If you have ever completed a programming course, you will probably have heard this a thousand times: "Always test your code" or "Code a little, test a little." Code that is not tested cannot be considered complete because its validity has not been checked. So when sufficient tests are written for a piece of code, one might come to believe that the software is correct and free of bugs. This is a fallacy of software development: Testing only shows the presence of defects. It does not prove that it is free of them.
 
 A test can only detect errors that the programmer has accounted for. This can be avoided by brute force testing of all the input space, but for any real-life software, this is infeasible because of the input space. Every programmer wants their code to be error free. Certain kinds of software like mission-critical software (power grid, airplane, nuclear reactors) and medical applications do not have any margin of error, and when mistakes do exist, it can cause loss of life. Then how does one know when test have sufficiently tested?
