@@ -2,10 +2,12 @@
 layout: post
 title: "Blockchain and democracy: A match made in heaven"
 excerpt: "How the democratic nature of blockchains can be used to strengthen the democratic process"
-feature: assets/img/post_features/voting-democracy-electoral-college.jpg
+feature: assets/img/post_features/democracy.jpg
 tags: ["Senior Seminar","Blockchain"]
 comments: true
 ---
+
+_Photo by Arnaud Jaegers on Unsplash_
 
 I am a firm believer in democracy and the democratic process but every time there is an election, there are allegations of hackings and tampering of voting machines. Protecting the voting mechanism from all forms of malfeasance is essential. Private blockchains can be used to preserve votes and ensure their integrity. Blockchains are immutable transactional records that are protected by the collective computing power of the machines. In a private blockchain, we can manage the machine which can enter the blockchain with ease. Any nodes that start to attack the history can also be easily detected.
 
