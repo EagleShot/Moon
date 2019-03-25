@@ -3,9 +3,11 @@ layout: post
 title: Social Media and Fake news
 tags: ["Senior Seminar","AI"]
 excerpt: "The impact of fake news in social media and it's impact on the World"
+feature: assets/img/post_features/william-iven-19844-unsplash.jpg
 comments: true
 ---
 
+_Photo by William Iven on Unsplash_
 Fake news has become rampant lately and has had a significant impact especially during the 2016 US election ([Science](http://science.sciencemag.org/content/363/6425/374)).
 Fake news is spread for various reasons including political, financial or social.
 
