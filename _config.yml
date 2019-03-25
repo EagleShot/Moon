@@ -10,7 +10,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://eagleshot.github.io
-baseurl:            
+baseurl:
 
 # Jekyll
 permalink:          pretty
@@ -41,7 +41,7 @@ google:
 #bing-verify:
 email:              ashiraseesh@gmail.com
 #twitter:           username
-facebook:           ashirborah
+#facebook:          ashirborah
 github-url:         eagleshot
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           ashirborah
