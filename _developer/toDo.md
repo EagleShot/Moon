@@ -1,0 +1,7 @@
+- [ ] Correct favicon
+- [ ] Change the background color from pink
+- [ ] Change landing page to mimic http://www.garysheng.com/
+- [ ] Add projects
+- [ ] Cleanup the readme file
+- [ ] Add more sections about updates
+- [ ] Start the code section
