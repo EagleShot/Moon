@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artifical Soldiers: RoboCop, Ironman or Terminator"
-date: 2019-03-26
+date: 2019-04-15
 excerpt: "With the fast paced research in AI and military trying to collaborate with public companies on AI, what does the future hold?"
 tags: ["Senior Seminar","Ethics"]
 # feature: assets/img/post_features/government-surveillance.jpg
